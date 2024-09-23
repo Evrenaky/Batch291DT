@@ -1,0 +1,4 @@
+
+                                        Vehicle
+        Constructor Hiyerarsisi- Child class'tan bir object olusturdugunuzda constructor'lar
+         en ustteki parent class'tan baslatilarak alta doğru calistirilir

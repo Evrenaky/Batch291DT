@@ -85,5 +85,8 @@ public class Variables01 {
         System.out.println("Toplam sonuc = " + (a+b));
 
 
+
+
+
     }
 }
